@@ -5,7 +5,7 @@ import { Header } from '../components/header';
 export const metadata = {
     title: {
         template: '%s | GrowthSchool & Teckzeal',
-        default: 'Community'
+        default: 'Community by GrowthSchool & Teckzeal'
     }
 };
 
