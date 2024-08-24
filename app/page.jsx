@@ -30,8 +30,8 @@ const ctx = getNetlifyContext();
 export default function Page() {
     return (
         <main className="flex flex-col gap-8 sm:gap-16">
-            <h1>Hi Nandhan Bro. How are you?</h1>
-            <p>Contact to teckzeal.com</p>
+            <h1>Growth School Community ❤️</h1>
+            <p>Developed by teckzeal.com</p>
         </main>
     );
 }
